@@ -1,6 +1,6 @@
 # Reordering Routes to Make All Paths Lead to City Zero
 
-This Java application aims to reorient roads between cities in such a way that all cities can reach the capital city, which is city 0.
+This Java code aims to reorient roads between cities in such a way that all cities can reach the capital city, which is city 0.
 
 ## Problem Statement
 
